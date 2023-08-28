@@ -28,6 +28,3 @@ Select your GameObject and add to Addcomponent "Crepuscular":
 Effect settings are intuitive and easy, without any complexity.
 
 ![image](https://github.com/ARtronClassicStudio/Crepuscular-Built-in/assets/68843488/e7669646-57bf-4977-9dc8-f30611101ace)
-
-
-There is also support for HDRP and Built-in but they will come later.
